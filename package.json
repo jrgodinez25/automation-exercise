@@ -1,0 +1,21 @@
+{
+  "name": "automationexercise",
+  "version": "1.0.0",
+  "description": "Automated test suite for AutomationExercise.com using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "e2e",
+    "testing"
+  ],
+  "author": "Jhon Ric Godinez",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^14.5.3"
+  }
+}
